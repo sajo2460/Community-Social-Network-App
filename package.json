@@ -1,0 +1,19 @@
+{
+  "name": "community-social-network-app",
+  "version": "1.0.0",
+  "description": "Community Social Network Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajo2460/community-social-network-app.git"
+  },
+  "author": "Joseph Safari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajo2460/community-social-network-app/issues"
+  },
+  "homepage": "https://github.com/sajo2460/community-social-network-app#readme"
+}
