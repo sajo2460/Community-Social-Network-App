@@ -16,13 +16,14 @@
   "bugs": {
     "url": "https://github.com/sajo2460/community-social-network-app/issues"
   },
-  "homepage": "https://github.com/sajo2460/community-social-network-app#readme",
+  "homepage": "https://github.com/sajo2460/community-social-network-app/src/index.html",
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
   "dependencies": {
     "bad-words": "^3.0.3",
     "express": "^4.17.1",
+    "gh-pages": "^2.2.0",
     "socket.io": "^2.3.0"
   }
 }
