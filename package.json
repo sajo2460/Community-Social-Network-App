@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/sajo2460/community-social-network-app/issues"
   },
-  "homepage": "https://github.com/sajo2460/community-social-network-app/src/index.html",
+  "homepage": "https://github.com/sajo2460/community-social-network-app/src/inde.js",
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
