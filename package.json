@@ -7,7 +7,7 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
     "predeploy": "npm run src/index.js",
-
+    "deploy": "gh-pages -d src/index.js"
   },
   "repository": {
     "type": "git",
