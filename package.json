@@ -7,7 +7,7 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
     "predeploy": "npm run src/index.js",
-    "deploy": "gh-pages -d src/index.js"
+
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/sajo2460/community-social-network-app/issues"
   },
-  "homepage": "https://github.com/sajo2460/community-social-network-app/src/inde.js",
+  "homepage": "https://github.com/sajo2460/community-social-network-app/src/index.js",
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
