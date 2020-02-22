@@ -41,14 +41,14 @@ const removeUser = (id) => {
 }
 
 addUser({
-    id: 22,
-    username: 'Andrew  ',
-    room: '  South Philly'
+    id: 2,
+    username: 'Joseph Safari ',
+    room: ' Trew'
 })
 
 console.log(users)
 
-const removedUser = removeUser(22)
+const removedUser = removeUser(2)
 
 console.log(removedUser)
 console.log(users)
